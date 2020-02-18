@@ -1,1 +1,1 @@
-# https://www.root-me.org/en/Challenges
+# https://www.root-me.org/en
