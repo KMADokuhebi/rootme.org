@@ -1,1 +1,1 @@
-# https://www.root-me.org/en/Challenges/Web-Client
+# https://www.root-me.org/en/Challenges
