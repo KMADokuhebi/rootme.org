@@ -1,2 +1,1 @@
-# rootme.org
-wite up
+# https://www.root-me.org/en/Challenges
